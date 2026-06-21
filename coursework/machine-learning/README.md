@@ -15,13 +15,23 @@
 | SVM | margin, kernel, decision boundary |
 | Unsupervised Learning | clustering, dimensionality reduction |
 
-## Implementation Direction
+## Implementation Roadmap
 
-- 모델별 작동 원리 정리
-- 작은 데이터셋으로 직접 구현
-- scikit-learn 결과와 직접 구현 결과 비교
-- metric과 decision boundary 시각화
+| Step | Implementation focus |
+| --- | --- |
+| 1. Linear model | numpy 기반 linear regression 구현과 gradient descent 확인 |
+| 2. Classification baseline | logistic regression과 basic metric 구현 |
+| 3. Tree-based model | decision tree의 split rule을 작은 예제로 확인 |
+| 4. SVM | margin과 kernel 개념을 수식과 시각화로 정리 |
+| 5. Clustering | k-means와 dimensionality reduction의 입력/출력 구조 정리 |
 
-## Related Project
+## Study Questions
 
-- [`01-classification-baseline`](../../projects/01-classification-baseline)
+- 모델이 최적화하는 objective는 무엇인가?
+- loss, metric, evaluation은 어떻게 구분되는가?
+- 직접 구현한 결과와 scikit-learn 결과가 다를 때 무엇을 확인해야 하는가?
+- 모델의 수학적 가정이 실제 데이터에서 깨질 때 어떤 문제가 생기는가?
+
+## Related Repository
+
+완성도 있는 프로젝트 결과물은 [`academic-projects`](https://github.com/minbro-01/academic-projects)에 정리하고, 이곳에는 개념 이해와 작은 구현 연습을 남깁니다.
