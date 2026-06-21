@@ -20,7 +20,7 @@
 - 교차로와 차선 혼잡 구간에서의 ego-lane 판단
 - 모델이 인식한 근거를 바탕으로 한 추론 과정 정리
 
-완성도 있는 프로젝트 결과물과 실험 산출물은 `academic-projects` 저장소에 따로 정리합니다.
+완성도 있는 프로젝트 결과물과 실험 산출물은 [`academic-projects/road-topology-ego-lane-inference`](https://github.com/minbro-01/academic-projects/tree/main/road-topology-ego-lane-inference)에 따로 정리합니다.
 
 ## Reference Policy
 
