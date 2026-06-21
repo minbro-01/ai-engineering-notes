@@ -23,10 +23,13 @@ Related project:
 
 | Title | Topic | Status | Related Work |
 | --- | --- | --- | --- |
-| TBD | TBD | Planned | TBD |
+| TBD | Autonomous driving perception | Planned | Road topology & ego-lane inference |
+| TBD | Trajectory prediction | Planned | Vehicle trajectory prediction |
+| TBD | NLP / LLM for policy analysis | Planned | DRT policy recommendation |
 
 ## Rule
 
 - 원문을 그대로 복사하지 않습니다.
 - 핵심 아이디어를 내 말로 다시 설명합니다.
-- 구현해볼 수 있는 부분이 있으면 `implementations/` 또는 `projects/`와 연결합니다.
+- 구현해볼 수 있는 부분이 있으면 `implementations/` 또는 [`academic-projects`](https://github.com/minbro-01/academic-projects)와 연결합니다.
+- 논문화와 직접 관련된 깊은 연구 기록은 [`research-log`](https://github.com/minbro-01/research-log)에 분리합니다.
