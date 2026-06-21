@@ -2,7 +2,7 @@
 
 학과 수업에서 배운 AI Engineering 관련 개념을 정리하고, 필요한 경우 작은 구현 연습으로 연결하는 학습 기록 저장소입니다.
 
-이 저장소의 목적은 프로젝트 결과물을 모으는 것이 아니라, 수업에서 배운 내용을 내 언어로 다시 정리하고 직접 찾아본 자료와 구현 아이디어를 함께 쌓는 것입니다. 완성도 있는 프로젝트 결과물은 별도의 `academic-projects` 저장소에 정리하는 구조로 운영합니다.
+이 저장소의 목적은 프로젝트 결과물을 모으는 것이 아니라, 수업에서 배운 내용을 내 언어로 다시 정리하고 직접 찾아본 자료와 구현 아이디어를 함께 쌓는 것입니다. 완성도 있는 프로젝트 결과물은 별도의 [`academic-projects`](https://github.com/minbro-01/academic-projects) 저장소에 정리하는 구조로 운영합니다.
 
 ## Study Map
 
@@ -51,7 +51,7 @@ ai-engineering-study/
 
 | Repository | Role |
 | --- | --- |
-| `academic-projects` | 차량 궤적예측, DRT 정책 제안, road topology & ego-lane inference 같은 프로젝트 결과물을 정리할 전용 저장소입니다. |
+| [`academic-projects`](https://github.com/minbro-01/academic-projects) | 차량 궤적예측, DRT 정책 제안, road topology & ego-lane inference 같은 프로젝트 결과물을 정리할 전용 저장소입니다. |
 
 ## Study Workflow
 
